@@ -1,6 +1,6 @@
 # New Moon — Custom Theme for Mou Markdown Editor
 
-![New Moon theme preview](img/new_moon_theme_preview.png)
+![New Moon theme preview](img/new_moon_theme_prev.png)
 
 ## [DOWNLOAD](https://raw.githubusercontent.com/meowwwls/new-moon-mou-theme/master/New%20Moon.txt)
 
