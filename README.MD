@@ -2,7 +2,7 @@
 
 ![New Moon theme preview](img/new_moon_theme_preview.png)
 
-## [DOWNLOAD](New Moon.txt)
+## [DOWNLOAD](https://raw.githubusercontent.com/meowwwls/new-moon-mou-theme/master/New%20Moon.txt)
 
 ## About the Theme
 
